@@ -1,4 +1,6 @@
-## Hi there 👋
+# Lara de Freitas
+## Lara de Freitas
+![biografia](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1Pfwg99vmz_4QBn7qSM43o3UXev0ryIO8_ppsuQmdhBwVnSqxTi2n3rckIdihfIOpi5s&usqp=CAU)
 
 <!--
 **Lara-DF/Lara-DF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
