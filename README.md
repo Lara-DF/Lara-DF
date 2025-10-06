@@ -51,4 +51,4 @@
 
 
 
-<h3 align="center">⚡ Made with passion by <b>Cauã Roberto</b> ⚡</h3>
+<h3 align="center">⚡ Made with passion by <b>Lara de Freitas</b> ⚡</h3>
