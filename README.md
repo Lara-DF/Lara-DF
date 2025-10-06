@@ -1,6 +1,6 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9F8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Cauã+Roberto;A+passionate+programmer+🚀;Always+learning+new+technologies+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9F8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Lara+Freitas;A+passionate+programmer+🚀;Always+learning+new+technologies+✨" alt="Typing SVG" />
 </p>
 
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
