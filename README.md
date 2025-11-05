@@ -9,8 +9,6 @@
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight" height="160" alt="" />
 </div>
 
@@ -37,11 +35,7 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Caua-Roberto466" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/cauargsilva" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a hrefsrc="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
