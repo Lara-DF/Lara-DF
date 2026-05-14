@@ -1,1 +1,1 @@
-https://github-profile-trophy.vercel.app/?FreitasLara=ryo-ma&theme=matrix
+[![trophy](https://github-profile-trophy.vercel.app/Lara-DF=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
