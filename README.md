@@ -1,1 +1,1 @@
-https://github-profile-trophy.vercel.app/?laradf=ryo-ma&theme=matrix
+https://github-profile-trophy.vercel.app/?FreitasLara=ryo-ma&theme=matrix
